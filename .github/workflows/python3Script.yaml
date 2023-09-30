@@ -3,7 +3,7 @@ name: Run Python3 Script
 on:
   push:
     branches:
-      - main  # Replace with your branch name if different
+      - test-yaml
 
 jobs:
   build:
